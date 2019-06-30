@@ -1,4 +1,4 @@
-![](header.png)
+![](/Logos/Main/favicon.png)
 
 # SyteSpace Branding
 Branding developed and maintained by ItsMMgamer
