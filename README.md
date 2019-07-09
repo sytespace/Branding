@@ -10,6 +10,7 @@ Branding developed and maintained by ItsMMgamer
 /Logos/Main/favicon.png - No background logo used as website favicon
 /Logos/Main/sytespace_bg.jpg - Logo with background
 /Logos/Main/sytespace_nobg.png - Logo w/o background
+/Logos/Main/sytespace_small.png - 151x51px logo w/o background
 /Social/Twitter/twitter_banner.png - Twitter Banner
 /Social/Youtube/banner.png - Youtube Banner
 /Website/Mockups/sytespace_mockup_1.png - Website Mockup w/o textboxes
